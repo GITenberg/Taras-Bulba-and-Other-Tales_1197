@@ -1,0 +1,81 @@
+_repo: Taras-Bulba-and-Other-Tales_1197
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Gogol, Nikolai Vasilevich
+    aliases:
+    - Гоголь, Николай Васильевич
+    - Gogol, Nikolay Vasilyevich
+    birthdate: 1809
+    deathdate: 1852
+    gutenberg_agent_id: '531'
+    url: http://www.gutenberg.org/2009/agents/531
+    wikipedia: http://en.wikipedia.org/wiki/Nikolai_Gogol
+description: "Taras Bulba (Russian: Тара́с Бу́льба; Ukrainian: Тара́с Бу́льба, Tarás\
+  \ Búl'ba) is a romanticized historical novella by Nikolai Gogol. It describes the\
+  \ life of an old Zaporozhian Cossack, Taras Bulba, and his two sons, Andriy and\
+  \ Ostap. The sons study at the Kiev Academy and then return home, whereupon the\
+  \ three men set out on a journey to the Zaporizhian Sich (the Zaporizhian Cossack\
+  \ headquarters, located in southern Ukraine), where they join other Cossacks and\
+  \ go to war against Poland.\nThe main character іs based on several historical personalities,\
+  \ and other characters are not аs exaggerated or grotesque as was common in Gogol's\
+  \ later fiction. The story can be understood in the context of the Romantic nationalism\
+  \ movement in literature, which developed around a historical ethnic culture which\
+  \ meets the Romantic ideal.\nInitially published in 1835 as part of a collection\
+  \ of stories, it was criticised by Russian authorities for being \"too Ukrainian\"\
+  . This, together with Gogol's own changing political and aesthetic views, led the\
+  \ author to rewrite and expand the story for a markedly different second edition\
+  \ published in 1842 and expressing greater Russian nationalist themes.\n From Wikipedia\
+  \ (CC BY-SA)."
+gutenberg_issued: '1998-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1197'
+  wikidata: Q1250822
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories'
+- !lcc 'PG'
+- !lcsh 'Russia -- Fiction'
+- GITenberg
+tableOfContents: Taras Bulba -- St. John's Eve -- The Cloak -- How the Two Ivans Quarrelled
+  -- The Mysterious Portrait -- The Calash.
+title: Taras Bulba, and Other Tales
+url: http://www.gutenberg.org/ebooks/1197
+wikipedia:
+- https://fi.wikipedia.org/wiki/Taras_Bulba
+- https://pa.wikipedia.org/wiki/%E0%A8%A4%E0%A8%B0%E0%A8%BE%E0%A8%B8_%E0%A8%AC%E0%A9%81%E0%A8%B2%E0%A8%AC%E0%A8%BE
+- https://fa.wikipedia.org/wiki/%D8%AA%D8%A7%D8%B1%D8%A7%D8%B3_%D8%A8%D9%88%D9%84%D8%A8%D8%A7
+- https://ru.wikisource.org/wiki/%D0%A2%D0%B0%D1%80%D0%B0%D1%81_%D0%91%D1%83%D0%BB%D1%8C%D0%B1%D0%B0_(%D0%93%D0%BE%D0%B3%D0%BE%D0%BB%D1%8C)
+- https://uk.wikipedia.org/wiki/%D0%A2%D0%B0%D1%80%D0%B0%D1%81_%D0%91%D1%83%D0%BB%D1%8C%D0%B1%D0%B0_(%D0%BF%D0%BE%D0%B2%D1%96%D1%81%D1%82%D1%8C)
+- https://uk.wikiquote.org/wiki/%D0%A2%D0%B0%D1%80%D0%B0%D1%81_%D0%91%D1%83%D0%BB%D1%8C%D0%B1%D0%B0
+- https://el.wikipedia.org/wiki/%CE%A4%CE%B1%CF%81%CE%AC%CF%82_%CE%9C%CF%80%CE%BF%CF%8D%CE%BB%CE%BC%CF%80%CE%B1
+- https://az.wikipedia.org/wiki/Taras_Bulba_(roman)
+- https://pt.wikipedia.org/wiki/Taras_Bulba_(livro)
+- https://hy.wikiquote.org/wiki/%D5%8F%D5%A1%D6%80%D5%A1%D5%BD_%D4%B2%D5%B8%D6%82%D5%AC%D5%A2%D5%A1
+- https://es.wikipedia.org/wiki/Tar%C3%A1s_Bulba
+- https://sk.wikipedia.org/wiki/Taras_Bu%C4%BEba
+- https://en.wikipedia.org/wiki/Taras_Bulba
+- https://ru.wikipedia.org/wiki/%D0%A2%D0%B0%D1%80%D0%B0%D1%81_%D0%91%D1%83%D0%BB%D1%8C%D0%B1%D0%B0
+- https://ro.wikipedia.org/wiki/Taras_Bulba
+- https://et.wikipedia.org/wiki/Tarass_Bulba
+- https://fr.wikipedia.org/wiki/Tarass_Boulba
+- https://sh.wikipedia.org/wiki/Taras_Buljba
+- https://pl.wikipedia.org/wiki/Taras_Bulba_(powie%C5%9B%C4%87)
+- https://hy.wikisource.org/wiki/%D5%8F%D5%A1%D6%80%D5%A1%D5%BD_%D4%B2%D5%B8%D6%82%D5%AC%D5%A2%D5%A1
+- https://ru.wikiquote.org/wiki/%D0%A2%D0%B0%D1%80%D0%B0%D1%81_%D0%91%D1%83%D0%BB%D1%8C%D0%B1%D0%B0
+- https://mk.wikipedia.org/wiki/%D0%A2%D0%B0%D1%80%D0%B0%D1%81_%D0%91%D1%83%D1%99%D0%B1%D0%B0
+- https://ka.wikipedia.org/wiki/%E1%83%A2%E1%83%90%E1%83%A0%E1%83%90%E1%83%A1_%E1%83%91%E1%83%A3%E1%83%9A%E1%83%91%E1%83%90
+- https://ar.wikipedia.org/wiki/%D8%AA%D8%A7%D8%B1%D8%A7%D8%B3_%D8%A8%D9%88%D9%84%D8%A8%D8%A7
+- https://id.wikipedia.org/wiki/Taras_Bulba
+- https://cs.wikipedia.org/wiki/Taras_Bulba
+- https://de.wikipedia.org/wiki/Taras_Bulba_(Erz%C3%A4hlung)
+- https://sr.wikipedia.org/wiki/%D0%A2%D0%B0%D1%80%D0%B0%D1%81_%D0%91%D1%83%D1%99%D0%B1%D0%B0
+- https://bg.wikipedia.org/wiki/%D0%A2%D0%B0%D1%80%D0%B0%D1%81_%D0%91%D1%83%D0%BB%D0%B1%D0%B0
+- https://it.wikipedia.org/wiki/Taras_Bul%27ba
+- https://br.wikipedia.org/wiki/Taras_Bulba
+- https://tr.wikipedia.org/wiki/Taras_Bulba
+- https://sv.wikipedia.org/wiki/Taras_Bulba_(roman)
