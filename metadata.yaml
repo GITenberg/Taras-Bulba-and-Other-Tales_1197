@@ -1,5 +1,8 @@
 _repo: Taras-Bulba-and-Other-Tales_1197
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Gogol, Nikolai Vasilevich
@@ -27,6 +30,8 @@ description: "Taras Bulba (Russian: Тара́с Бу́льба; Ukrainian: Та
   \ author to rewrite and expand the story for a markedly different second edition\
   \ published in 1842 and expressing greater Russian nationalist themes.\n From Wikipedia\
   \ (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/1197#Taras-Bulba-and-Other-Tales
 gutenberg_issued: '1998-02-01'
 gutenberg_type: Text
 identifiers:
